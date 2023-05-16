@@ -1,4 +1,4 @@
-<model-viewer src="Astronaut.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1">
+<model-viewer src="ImageToStl.com_solid surface shower niche.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1.19" shadow-softness="0.81" exposure="0.84" environment-image="legacy">
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>
